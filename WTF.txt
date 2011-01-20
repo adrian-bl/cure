@@ -1,0 +1,7 @@
+Welcome to CUdaREwerseengineringthing (aka. CURE)
+
+This is my little ioctl()-reverse-engineering playground.
+
+Most of the code here is VERY ugly and of little use.
+
+Please don't sue me. Thanks.
